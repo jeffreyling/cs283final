@@ -1,0 +1,6 @@
+Most failed shape tree code in C++ is in the shape_tree_code directory.
+
+The main I Spy scripts is ispy_contours.py
+Flags:
+-m  is path to image contour file.
+-n  is how many matches you want to print.
